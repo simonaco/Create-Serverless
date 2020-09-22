@@ -32,6 +32,8 @@ You will also learn:
 
 - How you can unify data with Hasura GraphQL Engine & Azure Functions by Allison Kunz and [Burke Holland](https://twitter.com/burkeholland)
 
+- Observability in Serverless Applications by [Ran Ribenzaft](https://twitter.com/ranrib) and [Jennifer Davis](https://twitter.com/sigje)
+
 - Serverless security 101 by [Guy Podjarny](https://twitter.com/guypod) and [Wassim Chegham](https://twitter.com/manekinekko)
 
 - How to develop low-code Serverless Applications by [Linda Nichols](https://twitter.com/lynnaloo) and [Dona Sarkar](https://twitter.com/donasarkar)
