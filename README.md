@@ -12,6 +12,7 @@
 
 - Website: https://aka.ms/createserverless
 - Twitter: [@MicrosoftCreate](https://twitter.com/MicrosoftCreate)
+- Youtube: [https://youtu.be/mDnpz-gFFc8](https://youtu.be/mDnpz-gFFc8)
 
 ## When
 
