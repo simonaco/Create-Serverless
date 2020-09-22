@@ -13,6 +13,10 @@
 - Website: https://aka.ms/createserverless
 - Twitter: [@MicrosoftCreate](https://twitter.com/MicrosoftCreate)
 
+## When
+
+September 30, 2020 - 8:00AM- 12:00PM  PDT - Virtual
+
 ### Description
 
 A free to attend one of a kind live event about all things serverless.
