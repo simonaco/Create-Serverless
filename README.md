@@ -8,6 +8,8 @@
 
 ### 🏠 [Homepage](https://aka.ms/createserverless)
 
+![Speakers](https://raw.githubusercontent.com/simonaco/Create-Serverless/main/landing_page.jpg)
+
 ## Event
 
 - Website: https://aka.ms/createserverless
